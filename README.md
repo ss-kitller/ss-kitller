@@ -4,6 +4,7 @@
 - 
 - 👀 I’m interested in ...
 
+-Playing LeagueOfLegends
 - coding (i use Arch btw)
 - 
 - 🌱 I’m currently learning ...
@@ -28,12 +29,12 @@
 - as I said: we saty silly :3
 
 
-I can use Python, C, play with linux a little bit
+ I can use Python, C, play with linux a little bit
 
 
 
-(you already know what I'm gonna tyoe now) : we stay silly :3
+ (you already know what I'm gonna tyoe now) : we stay silly :3
 
 
 
-Bye-Bye    <--(~.~)-->
+ Bye-Bye    <--(~.~)-->
